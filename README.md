@@ -16,7 +16,7 @@ I believe in building in public, no matter how early the stage.
 # April 2026
 learning  = ["Python (CS50P)", "Problem solving", "Git basics"]
 building  = ["learning-python repo", "AI experiments"]
-next_up   = ["DSA", "First real project", "SPIT CS 2025"]
+next_up   = ["DSA", "First real project", "SPIT CS 2026"]
 ```
 
 ---
