@@ -1,6 +1,6 @@
 # Hey, I'm Parth 👋
 
-17 y/o from Mumbai. Engineering student (incoming CS @ SPIT, 2025). Started coding from absolute zero — currently learning Python through CS50P and planning to go deep into DSA, systems, and real-world projects over the next 4 years.
+17 y/o from Mumbai. CS student (incoming CS @ SPIT, 2026). Started coding from absolute zero — currently learning Python through CS50P and planning to go deep into DSA, systems, and real-world projects over the next 4 years.
 
 I believe in building in public, no matter how early the stage.
 
